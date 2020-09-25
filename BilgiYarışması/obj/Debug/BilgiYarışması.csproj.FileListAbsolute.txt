@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Form1.resources
+C:\Users\Eren\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.Properties.Resources.resources
+C:\Users\Eren\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\BilgiYarışması\BilgiYarışması\bin\Debug\BilgiYarışması.exe.config
+C:\Users\Eren\source\repos\BilgiYarışması\BilgiYarışması\bin\Debug\BilgiYarışması.exe
+C:\Users\Eren\source\repos\BilgiYarışması\BilgiYarışması\bin\Debug\BilgiYarışması.pdb
+C:\Users\Eren\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.exe
+C:\Users\Eren\source\repos\BilgiYarışması\BilgiYarışması\obj\Debug\BilgiYarışması.pdb
